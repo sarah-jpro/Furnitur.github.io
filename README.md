@@ -1,1 +1,1 @@
-# Furnitur.github.io
+# furniture-starter
